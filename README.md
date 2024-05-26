@@ -1,5 +1,5 @@
-This is a face recognition and edit images app developed with python!!
-Requirement version:
+This is a face recognition and edit images app developed with python!!\n
+Requirement version:\n
     - Python==3.8.10
     - cmake==3.29.3
     - opencv-python==4.6.0.66
