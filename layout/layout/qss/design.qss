@@ -1,0 +1,59 @@
+QWidget{
+    background-color:#333;
+}
+#frame1{
+    max-height:50;
+    max-width:300;
+    border:none;
+}
+#frame2{
+    max-width:860;
+    max-height:600;
+    border:none;
+}
+#frame3{
+    max-width:860;
+    max-height:200;
+    border:none;
+}
+#btn_openfile, #btn_savefile, #btn_undo{
+   max-width:150;
+   height:40;
+   border-radius:5;
+   border-style: solid;
+   border-width:2;
+   border-color: #000;
+   background-color:#ccc;
+   margin-left:10;
+   padding:5;
+
+}
+#ori_image, #process_image{
+   border-radius:5;
+   border-style: solid;
+   border-width:1;
+   border-color: #ccc;
+   font-size:20px;
+   color:#ccc;
+
+}
+
+QInputDialog {
+    background-color:#e5e5e5;
+}
+
+QInputDialog QLabel, QPushButton, QLineEdit{
+    background-color:#e5e5e5;
+    color: #000000;
+}
+
+QMessageBox{
+    background-color:#e5e5e5;
+    color: #000000;
+}
+
+QMessageBox QLabel{
+    background-color:#e5e5e5;
+    color: #000000;
+}
+

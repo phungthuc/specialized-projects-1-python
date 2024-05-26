@@ -1,0 +1,32 @@
+QSlider::groove:horizontal {
+    border: 1px solid #ccc;
+    height: 8px;
+    margin: -3px 0;
+}
+
+QSlider::handle:horizontal {
+    background-color: #007fff;
+    height: 10px;
+    width: 12px;
+    border: 0px solid transparent;
+    margin: -2px 0;
+    border-radius: 6px;
+}
+
+QSlider::handle:horizontal:pressed {
+    background-color: #007fff;
+    height: 10px;
+    width: 18px;
+    border: 0px solid transparent;
+    margin: -5px 0px;
+    border-radius: 9px;
+}
+
+QSlider::handle:horizontal:disabled {
+    background-color: #007fff;
+    height: 2px;
+    width: 8px;
+    border: 0px solid transparent;
+    margin: -1px -1px;
+    border-radius: 4px;
+}

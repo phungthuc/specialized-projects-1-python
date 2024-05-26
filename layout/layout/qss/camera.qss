@@ -1,0 +1,35 @@
+#object{
+    background-color:#777777;
+}
+#title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #111;
+}
+#btn_cancel{
+   height:30;
+   border-radius:5;
+   border-style: solid;
+   border-width:2;
+   border-color: #000;
+   background-color:#ccc;
+   margin-left:10;
+   padding:2;
+}
+#lb_timer{
+   font-size:60px;
+   font-weight:bold;
+}
+#btn_start{
+   min-width:150px;
+   font-size: 18px;
+   font-weight:bold;
+   height:30;
+   border-radius: 5px;
+   border-style: solid;
+   border-width:2;
+   border-color: #56aaff;
+   background-color:#56aaff;
+   margin-left:10;
+   padding:2;
+}
